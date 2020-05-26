@@ -1,0 +1,50 @@
+[
+  {
+    "id": {
+      "scope": "react-bootstrap.react-bootstrap",
+      "name": "card"
+    },
+    "isSymlink": false,
+    "hash": "00d9950a39f9c677e0009645f5649a7fcaef5552"
+  },
+  {
+    "id": {
+      "scope": "react-bootstrap.react-bootstrap",
+      "name": "card-context"
+    },
+    "isSymlink": false,
+    "hash": "5a437e0944a02d4d5df67f272c88a72a24ef9fe2"
+  },
+  {
+    "id": {
+      "scope": "react-bootstrap.react-bootstrap",
+      "name": "card-img"
+    },
+    "isSymlink": false,
+    "hash": "38aa625b80a8b0fabfc21a259f39c369bc99b04a"
+  },
+  {
+    "id": {
+      "scope": "react-bootstrap.react-bootstrap",
+      "name": "theme-provider"
+    },
+    "isSymlink": false,
+    "hash": "8744b5c5c31aadaf29597418becb86c3f2ea351c"
+  },
+  {
+    "id": {
+      "scope": "react-bootstrap.react-bootstrap",
+      "name": "create-with-bs-prefix"
+    },
+    "isSymlink": false,
+    "hash": "bd7248c3337f18385b7187607bbf0806bab50878"
+  },
+  {
+    "id": {
+      "scope": "react-bootstrap.react-bootstrap",
+      "name": "div-with-class-name"
+    },
+    "isSymlink": false,
+    "hash": "b9479b58446623cf528d8ab435240ddae9e7ed32"
+  }
+]
